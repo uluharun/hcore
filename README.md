@@ -15,6 +15,10 @@
 ---
 
 ## 📺 Showcase
+
+https://github.com/user-attachments/assets/d59a2264-2221-46b4-a919-1f1eb021effb
+
+
 Explore the modern login mechanics, advanced punishment management, and integrated support systems of **HCore**.
 
 <p align="center">
